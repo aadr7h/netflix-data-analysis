@@ -1,0 +1,9 @@
+NETFLIX BUSINESS INSIGHTS REPORT
+================================
+Total titles analysed: 8790
+Movies: 6126 | TV Shows: 2664
+Top 3 countries: United States, India, United Kingdom
+Most common rating: TV-MA
+Most common genre: International Movies
+Average movie length: 99.6 minutes
+Year with most titles added: 2019
